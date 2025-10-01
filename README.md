@@ -1,2 +1,2 @@
 # test2
-test repo
+test repo fot git commands
